@@ -11,7 +11,7 @@
 
 			<div class="row row-pb-md">
 				<div class="col-md-6">
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam repudiandae maiores officiis illo soluta accusantium architecto cumque ipsam aut quasi, repellendus reprehenderit rem minima eius impedit. Earum dolor omnis officiis tenetur dolorum. Placeat repudiandae dolores eveniet pariatur, aspernatur sit assumenda architecto est optio animi natus qui laboriosam amet rerum sunt!</p>
+					<p>isi</p>
 				</div>
 				<div class="col-md-6">
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores maxime earum sequi explicabo consectetur. Labore, odio enim sequi. Quaerat explicabo modi laboriosam illo tempore, alias magnam non, debitis asperiores minima.</p>
